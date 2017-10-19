@@ -1,0 +1,30 @@
+body{
+	font-family: sans-serif;
+}
+
+nav{
+}
+
+ul{	
+	list-style: none;
+	margin: 0;
+	padding: 0;	
+	background: #2e2e2a;
+	line-height: 40px;
+}
+
+li{
+	text-align: center;
+	width: 100px;
+	display: inline-block;
+}
+
+a{
+	text-decoration: none;
+	display: block;
+	color: #fff;
+}
+a:hover{
+	background: #f9a91a;
+	color: #000;
+}
